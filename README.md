@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; Junior React Developer.
 - 🎓 &nbsp; Studied B.Sc IT from Arid University, Rawalpindi.
 - 🌱 &nbsp; Learning about modern Web Development Tools & Techniques.
-- ✍️ &nbsp; Learning Web & Mobile App Development.
+- ✍️ &nbsp; Learning Front-end Development using React framework.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
