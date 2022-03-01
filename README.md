@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Junior React JS Developer.
-- 🎓 &nbsp; Studied B.Sc IT from Arid University, Rawalpindi.
+- 🎓 &nbsp; Studied BSIT from Arid University, Rawalpindi.
 - 🌱 &nbsp; Learning about modern Web Development Tools & Techniques.
 - ✍️ &nbsp; Learning Front-end Development using React framework.
 
