@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Junior React JS Developer.
+- 🤔 &nbsp; Junior Front-end Developer.
 - 🎓 &nbsp; Studied BSIT from Arid University, Rawalpindi.
 - 🌱 &nbsp; Learning about modern Web Development Tools & Techniques.
-- ✍️ &nbsp; Learning Front-end Development using React framework.
+- ✍️ &nbsp; Learning backend development (Node Js).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
