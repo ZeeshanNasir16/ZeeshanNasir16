@@ -35,6 +35,8 @@
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?logo=android&logoColor=3DDC84)
 
 <br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
