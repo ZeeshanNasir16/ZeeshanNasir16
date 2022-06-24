@@ -34,8 +34,7 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?logo=android&logoColor=3DDC84)
 
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
