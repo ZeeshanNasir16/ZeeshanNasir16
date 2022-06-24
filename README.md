@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Junior Front-end Developer.
 - 🎓 &nbsp; Studied BSIT from Arid University, Rawalpindi.
 - 🌱 &nbsp; Learning about modern Web Development Tools & Techniques.
-- ✍️ &nbsp; Learning backend development (Node Js).
+- ✍️ &nbsp; Learning the MERN Stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
