@@ -18,6 +18,7 @@
   ![Redux](https://img.shields.io/badge/Redux-333333?logo=redux&logoColor=764ABC)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
   ![Material UI](https://img.shields.io/badge/Material%20UI-333333?logo=mui&logoColor=007FFF)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Firebase](https://img.shields.io/badge/Firebase-333333?logo=firebase&logoColor=FFCA28)
   
 - 💻 &nbsp;
@@ -44,4 +45,4 @@
 <a href="mailto:m.zeeshannasir5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.zeeshannasir5@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+<!--    -->
