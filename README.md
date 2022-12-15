@@ -3,10 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Junior Front-end Developer.
+- 🤔 &nbsp; MERN Stack Developer.
 - 🎓 &nbsp; Studied BSIT from Arid University, Rawalpindi.
 - 🌱 &nbsp; Learning about modern Web Development Tools & Techniques.
-- ✍️ &nbsp; Learning the MERN Stack.
+<!-- - ✍️ &nbsp; Learning the MERN Stack. -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
